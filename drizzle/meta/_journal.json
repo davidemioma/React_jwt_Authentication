@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1718902152148,
+      "tag": "0000_living_sabra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1718902427714,
+      "tag": "0001_curvy_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1718907556237,
+      "tag": "0002_omniscient_lightspeed",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1718995562456,
+      "tag": "0003_dazzling_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1719164767247,
+      "tag": "0004_quiet_warbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1719212491779,
+      "tag": "0005_lethal_the_hunter",
+      "breakpoints": true
+    }
+  ]
+}

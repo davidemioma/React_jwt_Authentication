@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+
+volumes:
+  react-jwt:
+# docker compose up --build - using docker compose
+# docker compose watch - to watch for changes
