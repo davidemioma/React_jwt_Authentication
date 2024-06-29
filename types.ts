@@ -109,11 +109,6 @@ export const SettingsSchema = z
         .trim()
     ),
   })
-  .refine((data) => {
-    if (!data.password && !data.newPassword) {
-      return true;
-    }
-  })
   .refine(
     (data) => {
       if (data.password && !data.newPassword) {

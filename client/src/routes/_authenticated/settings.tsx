@@ -191,6 +191,7 @@ export const Route = createFileRoute("/_authenticated/settings")({
                             placeholder="******"
                             type="password"
                             disabled={isPending}
+                            autoComplete="new-password"
                           />
                         </FormControl>
 
